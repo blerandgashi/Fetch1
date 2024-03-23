@@ -1,3 +1,5 @@
 kafe
 espresso
 ice coffe
+latte
+machiato
